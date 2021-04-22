@@ -15,3 +15,5 @@ Tenemos que crear una máquina en [Amazon EC2](https://aws.amazon.com/es/) con [
 ## REFERENCIAS
 - [José Juan Sanchez](https://josejuansanchez.org/iaw/practica-13/index.html)
 - [Jose Antonio Padilla](https://github.com/japsasir/iaw-practica-13)
+- [Ubuntu](https://ubuntu.com/)
+- [Bitnami Stack Installer](https://bitnami.com/stack/wordpress/installer)
