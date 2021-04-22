@@ -10,6 +10,17 @@ En esta práctica tendremos que realizar la implantación del sitio [WordPress](
 Tenemos que crear una máquina en [Amazon EC2](https://aws.amazon.com/es/) con [Ubuntu Server](https://ubuntu.com/download/server).
 > Debemos de elegir una máquina con mínimos 2GB de RAM 
 
+Tras crear la Instancia EC2 descargamos las herramientas que vamos a usar para la instalación de **Wordpress**.
+- Ejecutamos el Script creado para la instalación.
+![Install](/images/ec21.png)
+
+Nos pedirá algunos parámetros para completar la instalación
+![Install](/images/ec2.png)
+
+
+
+
+
 
 
 ## REFERENCIAS
