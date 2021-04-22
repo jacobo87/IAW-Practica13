@@ -14,12 +14,17 @@ Tras crear la Instancia EC2 descargamos las herramientas que vamos a usar para l
 - Ejecutamos el Script creado para la instalación.
 ![Install](/images/ec21.png)
 
-Nos pedirá algunos parámetros para completar la instalación
+- Nos pedirá algunos parámetros para completar la instalación
 ![Install](/images/ec2.png)
 
+- Seleccionamos el usuario y su contraseña y el nombre del sitio
+![Install](/images/ec3.png)
 
+- Una vez terminada la instalación lanzamos Bitnami
+![Install](/images/ec5.png) 
 
-
+- Accedemos a nuestra IP de la **Instancia EC2**
+![Install](/images/ec6.png)
 
 
 
